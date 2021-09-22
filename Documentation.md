@@ -1,4 +1,4 @@
-# UIAnimator
+# UIAnimator - Simple UI Tweening Library for Unity
 ## A simple, and easy-to-use UI tweening library for the Unity game engine.
 ![UIAnimator Banner](https://github.com/MonteBoomBox/UIAnimatorData/blob/main/images/UIAnimator-Banner.jpeg)
 
